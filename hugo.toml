@@ -1,0 +1,4 @@
+baseURL = 'https://blakearnold.me/'
+languageCode = 'en-us'
+title = 'Technology, Computers, Etc.'
+theme = 'ananke'
