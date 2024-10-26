@@ -1,6 +1,5 @@
 baseURL = 'https://blakearnold.me/'
 languageCode = 'en-us'
-title = 'Technology, Computers, Etc.'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"
@@ -10,7 +9,7 @@ enableRobotsTXT = true
 
 [languages]
 [languages.en]
-title = "Ananke"
+title = "My Corner"
 weight = 1
 contentDir = "content"
 
