@@ -1,7 +1,8 @@
 +++
 date = '2024-10-24T10:15:42-04:00'
 draft = false
-title = 'My First Post'
+title = 'My First Hugo Post'
+tags = ['Kaizen']
 +++
 
 After all of the wordpress drama I decided to take a look for an alternative. Hugo appeared to be a popular solution.
