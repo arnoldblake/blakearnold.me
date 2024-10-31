@@ -2,6 +2,7 @@
 date = '2024-10-28T20:59:48-04:00'
 draft = false
 title = 'Lets Game Dev'
+tags = ['Game Dev']
 +++
 
 I've been a fan of World of Warcraft for some time now. I have fond memories of leveling my first character a warrior.
