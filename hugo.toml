@@ -4,8 +4,8 @@ theme = 'ananke'
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-googleAnalytics = ""
 enableRobotsTXT = true
+buildDrafts = true
 
 [pagination]
 pagerSize = 10
